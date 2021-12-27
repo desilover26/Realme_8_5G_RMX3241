@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/realme/RMX3242
+DEVICE_PATH := device/realme/RMX3241
 
 # For building with minimal manifest
 BUILD_BROKEN_DUP_RULES := true
