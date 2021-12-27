@@ -35,5 +35,5 @@ Send Feedback
 
 ## Device Picture
 
-![ Realme 8 5G -RMX3241 ](https://www.gizmochina.com/wp-content/uploads/2021/03/realme-8-pro-black-1.png)
+![ Realme 8 5G -RMX3241 ](https://www.mytrendyphone.eu/images/Realme-8-5G-128GB-Supersonic-Black-6941399047235-06072021-01-p.jpg)
 
