@@ -100,7 +100,7 @@ TARGET_COPY_OUT_VENDOR := vendor
 
 # Metadata
 BOARD_USES_METADATA_PARTITION := true
-BOARD_ROOT_EXTRA_FOLDERS += metadata 
+BOARD_ROOT_EXTRA_FOLDERS += metadata my_product my_engineering my_company my_carrier my_region my_heytap my_stock my_preload my_manifest my_custom my_version
 
 # Hack: prevent anti rollback
 PLATFORM_SECURITY_PATCH := 2099-12-31
@@ -144,7 +144,7 @@ TW_EXCLUDE_TWRPAPP := true
 TW_OZIP_DECRYPT_KEY := 0000
 TW_Y_OFFSET := 80
 TW_H_OFFSET := -80
-TW_INCLUDE_LOGICAL := my_product my_engineering my_company my_carrier my_region my_heytap my_stock my_preload my_manifest my_custom my_version
+# TW_INCLUDE_LOGICAL := 
 
 # resetprop and magiskboot
 TW_INCLUDE_RESETPROP := true
