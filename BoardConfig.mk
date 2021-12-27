@@ -9,6 +9,7 @@ DEVICE_PATH := device/realme/RMX3241
 
 # For building with minimal manifest
 BUILD_BROKEN_DUP_RULES := true
+ALLOW_MISSING_DEPENDENCIES := true
 
 # Architecture
 TARGET_ARCH := arm64
