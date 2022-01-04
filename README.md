@@ -14,7 +14,13 @@ Tester Needed
 ## Discussion 
 
 [XDA Thread](https://forum.xda-developers.com/t/realme-8-rmx3085-twrp_-_root.4365305/)
+
+## Note
+
+Zip file contain stock images except Twrp
+
 [Download Link](https://www.androidfilehost.com/?w=files&flid=331342/)
+
 
 ## Device Specifications
 
