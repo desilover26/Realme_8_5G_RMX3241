@@ -7,13 +7,14 @@
   HemanthJabalpuri |
   ʂɑʈɧɑɱ ɧʋʂʂɑꀤɳ   
   
-## What's not working? 
+## Status
 
-Testing
+Tester Needed
 
 ## Discussion 
 
-[XDA Thread](https://forum.xda-developers.com/t/realme-8-rmx3085-twrp_-_root.4365305/).
+[XDA Thread](https://forum.xda-developers.com/t/realme-8-rmx3085-twrp_-_root.4365305/)
+[Download Link](https://www.androidfilehost.com/?w=files&flid=331342/)
 
 ## Device Specifications
 
